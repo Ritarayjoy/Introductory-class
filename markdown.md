@@ -1,4 +1,4 @@
-# GIT COM
+# GIT commands
 ## git commands
 ### git commands
 #### git commands
